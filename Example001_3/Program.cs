@@ -8,10 +8,10 @@ Console.WriteLine(numberB);
 
 if(numberA == numberB * numberB)
 {
-    Console.WriteLine($"{numberA} is quadrat {numberB}");
+    Console.WriteLine($"numberA = {numberA} is quadrat numberB = {numberB}");
 } else if(numberB == numberA * numberA)
 {
-    Console.WriteLine($"{numberB} is quadrat {numberA}");
+    Console.WriteLine($"numberB = {numberB} is quadrat numberA = {numberA}");
 } else
 {
     Console.WriteLine("no one number is not a quadrat each other");
