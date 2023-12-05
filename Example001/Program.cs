@@ -8,9 +8,10 @@ Console.WriteLine(numberB);
 
 if(numberA == numberB * numberB)
 {
-    Console.WriteLine("Является");
+    Console.WriteLine("1ое число является квадратом второго");
 }
 else
 {
-    Console.WriteLine("Не является");
+    Console.WriteLine("1ое число не является квадратом второго");
 }
+
